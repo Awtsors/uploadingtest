@@ -1,0 +1,19 @@
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\bin\Debug\net6.0-windows\BPOINC v2.exe
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\bin\Debug\net6.0-windows\BPOINC v2.deps.json
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\bin\Debug\net6.0-windows\BPOINC v2.runtimeconfig.json
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\bin\Debug\net6.0-windows\BPOINC v2.dll
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\bin\Debug\net6.0-windows\BPOINC v2.pdb
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\obj\Debug\net6.0-windows\BPOINC v2.vbproj.AssemblyReference.cache
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\obj\Debug\net6.0-windows\BPOINC_v2.Form1.resources
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\obj\Debug\net6.0-windows\BPOINC v2.vbproj.GenerateResource.cache
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\obj\Debug\net6.0-windows\BPOINC v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\obj\Debug\net6.0-windows\BPOINC v2.AssemblyInfoInputs.cache
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\obj\Debug\net6.0-windows\BPOINC v2.AssemblyInfo.vb
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\obj\Debug\net6.0-windows\BPOINC v2.vbproj.CoreCompileInputs.cache
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\obj\Debug\net6.0-windows\BPOINC v2.vbproj.CopyComplete
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\obj\Debug\net6.0-windows\BPOINC v2.dll
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\obj\Debug\net6.0-windows\refint\BPOINC v2.dll
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\obj\Debug\net6.0-windows\BPOINC v2.pdb
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\obj\Debug\net6.0-windows\BPOINC v2.genruntimeconfig.cache
+C:\Users\renz.prado\source\repos\BPOINC v2\BPOINC v2\obj\Debug\net6.0-windows\ref\BPOINC v2.dll
